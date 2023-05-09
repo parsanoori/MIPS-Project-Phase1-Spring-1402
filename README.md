@@ -34,6 +34,6 @@ In this repository there are 5 kinds of files:
 
 Testing evolves completing each `.asm`, file running the `gen-binary.py` and running the `run.do` in the Modlesim. You can also use `Mars.jar` to convert the `.asm` file to a binary text file. You have to provide the screenshot of the registers (and dmem if needed) in your report. You should run each `.asm` using qtSpim or `Mars.jar` and provide the screenshot of the registers (and dmem if needed) in your report. Eventually you have to check if the state of the program in the the simulator is equal to your implementation or not.
 
-### Do not hesitate to ask questions in the telegrm group of the course.
+### Do not hesitate to ask questions in the telegram group of the course.
 
 
