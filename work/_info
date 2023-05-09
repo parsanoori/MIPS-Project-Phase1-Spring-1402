@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Workroom/verilog_works/mips
+T_opt
+!s110 1683349976
+V@1d^B;fGL`DA5UN?T^hSF2
+04 12 4 work mips_core_tb fast 0
+=1-b48c9d03f611-6455e1d8-2bc-2c40
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vdmem
+Z2 !s110 1683349975
+!i10b 1
+!s100 z48EHXFDm4]k7?VL_F<400
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3n^K46o:DJ]]S=UoB_jDD3
+R0
+w1683349165
+8D:/Workroom/verilog_works/mips/dmem.v
+FD:/Workroom/verilog_works/mips/dmem.v
+!i122 34
+L0 2 16
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1683349975.000000
+!s107 D:/Workroom/verilog_works/mips/dmem.v|
+!s90 -reportprogress|300|-work|work|D:/Workroom/verilog_works/mips/dmem.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vimem
+R2
+!i10b 1
+!s100 5GQ]jC>LODkFIaMcdCR5M2
+R3
+IAomdhMNdk7WjLf]?QAFT?2
+R0
+w1683348892
+8D:/Workroom/verilog_works/mips/imem.v
+FD:/Workroom/verilog_works/mips/imem.v
+!i122 33
+L0 2 10
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Workroom/verilog_works/mips/imem.v|
+!s90 -reportprogress|300|-work|work|D:/Workroom/verilog_works/mips/imem.v|
+!i113 0
+R7
+R1
+vmips_core
+R2
+!i10b 1
+!s100 ]jodg]93bNl5lYdifhE8n1
+R3
+IW>CRABP21i9lcBP=c6PbO1
+R0
+w1683349972
+8D:/Workroom/verilog_works/mips/mips_core.v
+FD:/Workroom/verilog_works/mips/mips_core.v
+!i122 35
+L0 2 49
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Workroom/verilog_works/mips/mips_core.v|
+!s90 -reportprogress|300|-work|work|D:/Workroom/verilog_works/mips/mips_core.v|
+!i113 0
+R7
+R1
+vmips_core_tb
+R2
+!i10b 1
+!s100 DUdjWfF]]NJI^Q@CHJYPo2
+R3
+IdcWK3XmjF5KPA5>HkFl2]2
+R0
+w1683348939
+8D:/Workroom/verilog_works/mips/mips_core_tb.v
+FD:/Workroom/verilog_works/mips/mips_core_tb.v
+!i122 36
+L0 2 36
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Workroom/verilog_works/mips/mips_core_tb.v|
+!s90 -reportprogress|300|-work|work|D:/Workroom/verilog_works/mips/mips_core_tb.v|
+!i113 0
+R7
+R1
