@@ -1,5 +1,18 @@
 # Computer Architecture MIPS Project phase 1 Spring 1402
 
+## What's needed?
+
+There are two options which literally have the same difficulties to go through. The first one the Mars option which requires java and also evolves going through a Graphical way to generate binary files. And the second one which requires SPIM and qtSpim and python3. You can also go through using `gen-binary.py` for the opcode.bin generation and use `Mars.jar` as the simulator.
+
+Option 1:
+1. Java 8+
+2. Mars.jar (provided in the repo)
+
+Option 2:
+1. SPIM
+2. Python3
+3. qtSpim
+
 ## What's here?
 
 In this repository there are 5 kinds of files:
